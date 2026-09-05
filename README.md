@@ -1,152 +1,72 @@
-<h1 align="center">
-  Hey, I'm Aditya 👋
-</h1>
-
-<h3 align="center">
-  Full-Stack Developer | Building web apps with AI where it actually makes sense.
-</h3>
-
-<p align="center">
-  I enjoy building applications across the stack — from React interfaces and FastAPI backends
-  to databases, APIs, and AI-powered features.
-</p>
-
-<p align="center">
-  Currently exploring <b>Generative AI, LangChain & LangGraph</b>.
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student who enjoys turning ideas into working applications.
-
-I like working across the stack — building the frontend, designing backend APIs,
-working with databases, and integrating AI when it actually adds value to the product.
-
-Currently, I'm going deeper into **Generative AI, LLMs, RAG, LangChain and LangGraph**,
-with a focus on understanding how AI-powered applications and agentic workflows work under the hood.
-
-> I write code.  
-> Sometimes it works.  
-> Those are good days. 😄
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-</p>
-
-**Python · JavaScript · TypeScript · C++**
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
-
-**React · HTML5 · CSS3 · Tailwind CSS**
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-</p>
-
-**FastAPI · Node.js · Express · PostgreSQL · REST APIs**
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge&logo=graphql&logoColor=white" height="30"/>
-</p>
-
-**PyTorch · NLP · LLMs · RAG · Generative AI · LangChain · LangGraph**
-
-### 🐳 Tools & DevOps
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
-
-**Docker · Git · GitHub · VS Code**
-
----
-
 ## 🚀 Things I've Built
 
 ### 🤖 AI Interview Simulator
 
-An AI-powered interview preparation platform designed to help students practice
-real interview scenarios.
+An interview preparation platform built to help students practice interviews
+in a more structured way.
 
-It focuses on **question generation, answer evaluation, feedback and interview preparation**
-using AI.
+I built it to solve a simple problem: preparing for interviews can often mean
+jumping between different resources without knowing what to practice or how
+well you're performing.
+
+The project provides a structured environment for practicing questions,
+evaluating answers and getting feedback.
 
 **Tech:** Python · FastAPI · Streamlit · PostgreSQL · LLMs
+
+🔗 [View Project Repository](https://github.com/Aditya7638/AI-Interview-Simulator-App)
 
 ---
 
 ### 🧘 YogKriya
 
-A platform designed to help users build a consistent yoga practice.
+A platform designed to help people build a consistent yoga routine.
 
-YogKriya helps users **discover exercises, create routines and schedule their yoga sessions**
-so that yoga becomes easier to follow as part of a daily routine.
+I built YogKriya around a simple problem — knowing different yoga exercises
+is one thing, but actually maintaining a routine is another.
 
-The goal is simple:
+The idea is to make it easier for users to discover exercises, organize them
+into routines and schedule when they want to practice.
 
 **Choose → Plan → Schedule → Practice → Stay Consistent**
 
-**Tech:** React · TypeScript · FastAPI · AI
+**Tech:** React · TypeScript · FastAPI
+
+🔗 [View Project Repository](YOUR_YOGKRIYA_REPOSITORY_LINK)
+
+---
+
+### 🩻 Pneumonia Detection System
+
+A system designed to detect pneumonia from chest X-ray images.
+
+I built this project to explore how medical image analysis can be used to
+address a practical healthcare problem: examining large numbers of chest
+X-ray images can be time-consuming and requires specialized expertise.
+
+The goal of the project was to build a system that could analyze an uploaded
+chest X-ray and provide a quick classification between **Normal** and
+**Pneumonia**, making the process easier to experiment with and understand.
+
+Building this project also gave me hands-on experience with image
+preprocessing, model training, evaluation and deploying a trained model
+inside an application.
+
+**Tech:** Python · PyTorch · Computer Vision · Streamlit
+
+🔗 [View Project Repository](YOUR_PNEUMONIA_REPOSITORY_LINK)
 
 ---
 
 ### ⚡ RealDeal
 
-A full-stack application built to strengthen my understanding of modern web development.
+A full-stack application built to strengthen my understanding of modern
+web application development.
 
-Working across the frontend and backend with:
+The project focuses on connecting a React frontend with a FastAPI backend,
+working with APIs, handling application state and building a clean
+frontend-backend architecture.
 
-**React + TypeScript + Tailwind CSS + FastAPI**
+**Tech:** React · TypeScript · Tailwind CSS · FastAPI
 
----
-
-### 🧠 Machine Learning Projects
-
-Hands-on projects involving **machine learning, PyTorch, NLP and model deployment**.
-
-I'm particularly interested in taking ML models beyond notebooks and turning them
-into usable applications.
-
----
-
-## 🧭 Currently Learning
-
-```text
-Generative AI
-      ↓
-LLMs & RAG
-      ↓
-LangChain
-      ↓
-LangGraph
-      ↓
-Agents & AI Workflows
+🔗 [View Project Repository](YOUR_REALDEAL_REPOSITORY_LINK)
