@@ -198,7 +198,7 @@ If you found one of my projects useful, learned something from my code,
 or just want to support another developer's questionable life choices:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <a href="https://www.com/adityabhuria">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
          width="180"
          alt="Buy Me A Coffee"/>
