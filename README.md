@@ -226,7 +226,7 @@ or just want to support another developer's questionable life choices:
   <a href="https://github.com/Aditya7638">
     <img src="https://img.shields.io/badge/GitHub-Aditya7638-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/aditya-bhuria">
+  <a href="https://www.linkedin.com/in/aditya-bhuria-b0201640a/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Bhuria-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
