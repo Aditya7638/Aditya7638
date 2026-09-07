@@ -125,7 +125,8 @@ and more like something that actually becomes part of your routine.
 
 **Tech:** React · TypeScript · FastAPI
 
-🔗 [View Project Repository](YOUR_YOGKRIYA_REPOSITORY_LINK)
+🔗 [View Project Repository](https://github.com/Aditya7638/Yogkriya)
+[Deployed Link of this App](https://yogkriya.vercel.app)
 
 ---
 
@@ -145,7 +146,7 @@ model training, evaluation and deploying a trained model into an application**.
 
 **Tech:** Python · PyTorch · Computer Vision · Streamlit
 
-🔗 [View Project Repository](YOUR_PNEUMONIA_REPOSITORY_LINK)
+🔗 [View Project Repository](https://github.com/Aditya7638/ai-xray-pneumonia-detecto)
 
 ---
 
@@ -159,7 +160,7 @@ on understanding how the different pieces of a modern application work together.
 
 **Tech:** React · TypeScript · Tailwind CSS · FastAPI
 
-🔗 [View Project Repository](YOUR_REALDEAL_REPOSITORY_LINK)
+🔗 [View Project Repository](https://github.com/Aditya7638/RealDeal)
 
 ---
 
